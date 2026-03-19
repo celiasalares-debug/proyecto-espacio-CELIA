@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260319104124FUQCUX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260319104124QDO910</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Pequeños astronautas: exploramos el espacio.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Celia Azuaga Jiménez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para alumnado de 5 años de Educación Infantil sobre el conocimiento del universo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1773913268574</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mmxa5q0y-toh1zs72n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🚀 Portada:  Pequeños astronautas.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🚀 Portada:  Pequeños astronautas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🚀 Portada:  Pequeños astronautas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🚀 Portada:  Pequeños astronautas.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q0y-toh1zs72n</odePageId>
+      <odeBlockId>block-1773654864939-n0muortzn</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q0y-toh1zs72n</odePageId>
+          <odeBlockId>block-1773654864939-n0muortzn</odeBlockId>
+          <odeIdeviceId>idevice-1773654864937-uvcfnltbb</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1773654864937-uvcfnltbb" title="" href="{{context_path}}/content/resources/24195642-d44b-41b6-ba21-13d982a39afb.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/24195642-d44b-41b6-ba21-13d982a39afb.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773654864937-uvcfnltbb","img_0":{"img":"blob:app://localhost/6fb9062a-0d0b-4eb9-aa63-df865075df39","thumbnail":"blob:app://localhost/6fb9062a-0d0b-4eb9-aa63-df865075df39","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q14-oizxs6vbz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🌍 Nuestro proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌍 Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🌍 Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🌍 Nuestro proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q14-oizxs6vbz</odePageId>
+      <odeBlockId>block-1773655192202-66u42cs94</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q14-oizxs6vbz</odePageId>
+          <odeBlockId>block-1773655192202-66u42cs94</odeBlockId>
+          <odeIdeviceId>idevice-1773655192198-e7f5cou8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto “Pequeños astronautas: exploramos el espacio” es una Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil, cuyo objetivo principal es despertar la curiosidad por el universo y acercar a los niños y niñas al conocimiento del espacio de una manera motivadora, visual y adaptada a su edad.</p>
+<p style="text-align: justify;">A través de este proyecto, el alumnado tendrá la oportunidad de explorar algunos elementos del universo, como los planetas, las estrellas, las constelaciones y los cohetes, mediante actividades de observación, experimentación, creación plástica y conversación en grupo.</p>
+<p style="text-align: justify;">Las actividades se desarrollan mediante metodologías activas, fomentando la participación del alumnado, el aprendizaje significativo y el trabajo cooperativo. Además, se incorporan recursos digitales sencillos como apoyo al aprendizaje, utilizando imágenes, vídeos y presentaciones que permiten acercar el universo al aula de una forma atractiva.</p>
+<p style="text-align: justify;">Durante el desarrollo del proyecto, el alumnado participará en diferentes experiencias de aprendizaje que les permitirán:</p>
+<p>🚀 Conocer algunos elementos del universo, como los planetas, las estrellas, la Luna o los cohetes.</p>
+<p>🌍 Desarrollar la curiosidad y la capacidad de observación, realizando preguntas sobre el espacio y explorando imágenes, vídeos y materiales relacionados con el universo.</p>
+<p>🧠 Expresar ideas y conocimientos, participando en conversaciones, explicando lo que saben y compartiendo lo que van descubriendo.</p>
+<p>👩‍🚀 Trabajar de forma cooperativa, colaborando con sus compañeros y compañeras en diferentes actividades del proyecto.</p>
+<p>🎨 Desarrollar la creatividad, realizando producciones plásticas relacionadas con el espacio como planetas, cohetes o constelaciones.</p>
+<p>💻 Utilizar recursos digitales sencillos, como vídeos, imágenes o presentaciones que nos ayudarán a conocer mejor el universo.</p>
+<p style="text-align: justify;"><br />El proyecto culminará con la elaboración de un “Museo del espacio”, en el que el alumnado expondrá los trabajos realizados y compartirá con el grupo todo lo que ha aprendido durante el desarrollo del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773655192198-e7f5cou8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto “Pequeños astronautas: exploramos el espacio” es una Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil, cuyo objetivo principal es despertar la curiosidad por el universo y acercar a los niños y niñas al conocimiento del espacio de una manera motivadora, visual y adaptada a su edad.</p>\n<p style=\"text-align: justify;\">A través de este proyecto, el alumnado tendrá la oportunidad de explorar algunos elementos del universo, como los planetas, las estrellas, las constelaciones y los cohetes, mediante actividades de observación, experimentación, creación plástica y conversación en grupo.</p>\n<p style=\"text-align: justify;\">Las actividades se desarrollan mediante metodologías activas, fomentando la participación del alumnado, el aprendizaje significativo y el trabajo cooperativo. Además, se incorporan recursos digitales sencillos como apoyo al aprendizaje, utilizando imágenes, vídeos y presentaciones que permiten acercar el universo al aula de una forma atractiva.</p>\n<p style=\"text-align: justify;\">Durante el desarrollo del proyecto, el alumnado participará en diferentes experiencias de aprendizaje que les permitirán:</p>\n<p>🚀 Conocer algunos elementos del universo, como los planetas, las estrellas, la Luna o los cohetes.</p>\n<p>🌍 Desarrollar la curiosidad y la capacidad de observación, realizando preguntas sobre el espacio y explorando imágenes, vídeos y materiales relacionados con el universo.</p>\n<p>🧠 Expresar ideas y conocimientos, participando en conversaciones, explicando lo que saben y compartiendo lo que van descubriendo.</p>\n<p>👩‍🚀 Trabajar de forma cooperativa, colaborando con sus compañeros y compañeras en diferentes actividades del proyecto.</p>\n<p>🎨 Desarrollar la creatividad, realizando producciones plásticas relacionadas con el espacio como planetas, cohetes o constelaciones.</p>\n<p>💻 Utilizar recursos digitales sencillos, como vídeos, imágenes o presentaciones que nos ayudarán a conocer mejor el universo.</p>\n<p style=\"text-align: justify;\"><br />El proyecto culminará con la elaboración de un “Museo del espacio”, en el que el alumnado expondrá los trabajos realizados y compartirá con el grupo todo lo que ha aprendido durante el desarrollo del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q15-138f37ugd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🧠 ¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧠 ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🪐 ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🧠 ¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q15-138f37ugd</odePageId>
+      <odeBlockId>block-1773660187946-0rc9zudzm</odeBlockId>
+      <blockName>¿QUÉ VAMOS A APRENDER?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q15-138f37ugd</odePageId>
+          <odeBlockId>block-1773660187946-0rc9zudzm</odeBlockId>
+          <odeIdeviceId>idevice-1773660187944-l2ddgxrpq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para descubrir el universo nos convertiremos en pequeñ@s astronautas investigadores. A lo largo del proyecto realizaremos diferentes actividades que nos permitirán aprender sobre el espacio de una manera divertida, participativa y adaptada a nuestra edad.</p>
+<p>Las sesiones se desarrollarán mediante metodologías activas, en las que el alumnado tendrá un papel protagonista en su propio aprendizaje. A través de la observación, la conversación, la experimentación y la creación artística iremos descubriendo diferentes elementos del universo.</p>
+<p>Durante el proyecto realizaremos actividades como:</p>
+<p>🚀 observar imágenes y vídeos del espacio<br />🪐 conocer algunos planetas del sistema solar<br />🌟 descubrir qué son las estrellas y las constelaciones<br />🎨 realizar creaciones plásticas relacionadas con el espacio<br />👩‍🚀 trabajar en equipo con nuestros compañeros y compañeras</p>
+<p>Además, utilizaremos recursos digitales sencillos, como vídeos, imágenes y presentaciones, que nos ayudarán a acercarnos al universo de una forma visual y motivadora.</p>
+<p>De esta manera el alumnado podrá aprender explorando, investigando y compartiendo ideas con el grupo, desarrollando su curiosidad y su interés por el mundo que nos rodea.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773660187944-l2ddgxrpq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para descubrir el universo nos convertiremos en pequeñ@s astronautas investigadores. A lo largo del proyecto realizaremos diferentes actividades que nos permitirán aprender sobre el espacio de una manera divertida, participativa y adaptada a nuestra edad.</p>\n<p>Las sesiones se desarrollarán mediante metodologías activas, en las que el alumnado tendrá un papel protagonista en su propio aprendizaje. A través de la observación, la conversación, la experimentación y la creación artística iremos descubriendo diferentes elementos del universo.</p>\n<p>Durante el proyecto realizaremos actividades como:</p>\n<p>🚀 observar imágenes y vídeos del espacio<br />🪐 conocer algunos planetas del sistema solar<br />🌟 descubrir qué son las estrellas y las constelaciones<br />🎨 realizar creaciones plásticas relacionadas con el espacio<br />👩‍🚀 trabajar en equipo con nuestros compañeros y compañeras</p>\n<p>Además, utilizaremos recursos digitales sencillos, como vídeos, imágenes y presentaciones, que nos ayudarán a acercarnos al universo de una forma visual y motivadora.</p>\n<p>De esta manera el alumnado podrá aprender explorando, investigando y compartiendo ideas con el grupo, desarrollando su curiosidad y su interés por el mundo que nos rodea.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q15-9b3rgwv3a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>⭐ Actividades del proyecto</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>⭐ Actividades del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>⭐ Actividades del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>⭐ Actividades del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q15-9b3rgwv3a</odePageId>
+      <odeBlockId>block-1773662862375-m7d2uk5am</odeBlockId>
+      <blockName>ACTIVIDADES DEL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q15-9b3rgwv3a</odePageId>
+          <odeBlockId>block-1773662862375-m7d2uk5am</odeBlockId>
+          <odeIdeviceId>idevice-1773662862373-an5jp3bfk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto “Pequeños astronautas: exploramos el espacio” se desarrolla a lo largo de varias sesiones en las que el alumnado irá descubriendo diferentes aspectos del universo de forma progresiva.</p>
+<p style="text-align: justify;">Las actividades se organizan siguiendo una secuencia de aprendizaje, comenzando por la exploración de ideas previas del alumnado y finalizando con la elaboración del producto final del proyecto.</p>
+<p style="text-align: justify;">A lo largo de las sesiones se realizarán actividades como:</p>
+<p style="text-align: justify;">🌍 <strong>Sesión 1. ¿Qué sabemos sobre el espacio?</strong><br />Conversamos sobre el universo y recogemos las ideas previas del alumnado. Observamos imágenes del espacio y planteamos preguntas sobre lo que queremos aprender.</p>
+<p style="text-align: justify;">🪐 <strong>Sesión 2. Conocemos los planetas.</strong><br />Observamos imágenes y vídeos sobre el sistema solar e identificamos algunos planetas. Después realizamos una actividad plástica creando nuestros propios planetas.</p>
+<p style="text-align: justify;">🚀 <strong>Sesión 3. Los cohetes y los astronautas.</strong><br />Descubrimos cómo viajan los astronautas al espacio y elaboramos cohetes con materiales plásticos y creativos.</p>
+<p style="text-align: justify;">🌟 <strong>Sesión 4. Las estrellas y las constelaciones</strong>.<br />Observamos imágenes de estrellas y constelaciones y realizamos una actividad artística representando constelaciones.</p>
+<p style="text-align: justify;">🌙 <strong>Sesión 5. La Luna.</strong><br />Aprendemos algunas características de la Luna y observamos imágenes reales de nuestro satélite.</p>
+<p style="text-align: justify;">👩‍🚀 <strong>Sesión 6. Nos convertimos en astronautas.</strong><br />Realizamos una actividad simbólica en la que el alumnado se convierte en astronauta y participa en juegos relacionados con la exploración del espacio.</p>
+<p style="text-align: justify;">🎨 <strong>Sesión 7. Preparamos nuestro museo del espacio.</strong><br />El alumnado organiza los trabajos realizados durante el proyecto y prepara los materiales que formarán parte de la exposición final.</p>
+<p style="text-align: justify;">🛰 <strong>Sesión 8. Museo del espacio.</strong><br />Se realiza la exposición final del proyecto, donde el alumnado presenta sus creaciones y comparte con el grupo lo que ha aprendido.</p>
+<p style="text-align: justify;">Esta organización permite desarrollar el proyecto de forma progresiva, fomentando la curiosidad, la participación y el aprendizaje significativo del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773662862373-an5jp3bfk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto “Pequeños astronautas: exploramos el espacio” se desarrolla a lo largo de varias sesiones en las que el alumnado irá descubriendo diferentes aspectos del universo de forma progresiva.</p>\n<p style=\"text-align: justify;\">Las actividades se organizan siguiendo una secuencia de aprendizaje, comenzando por la exploración de ideas previas del alumnado y finalizando con la elaboración del producto final del proyecto.</p>\n<p style=\"text-align: justify;\">A lo largo de las sesiones se realizarán actividades como:</p>\n<p style=\"text-align: justify;\">🌍 <strong>Sesión 1. ¿Qué sabemos sobre el espacio?</strong><br />Conversamos sobre el universo y recogemos las ideas previas del alumnado. Observamos imágenes del espacio y planteamos preguntas sobre lo que queremos aprender.</p>\n<p style=\"text-align: justify;\">🪐 <strong>Sesión 2. Conocemos los planetas.</strong><br />Observamos imágenes y vídeos sobre el sistema solar e identificamos algunos planetas. Después realizamos una actividad plástica creando nuestros propios planetas.</p>\n<p style=\"text-align: justify;\">🚀 <strong>Sesión 3. Los cohetes y los astronautas.</strong><br />Descubrimos cómo viajan los astronautas al espacio y elaboramos cohetes con materiales plásticos y creativos.</p>\n<p style=\"text-align: justify;\">🌟 <strong>Sesión 4. Las estrellas y las constelaciones</strong>.<br />Observamos imágenes de estrellas y constelaciones y realizamos una actividad artística representando constelaciones.</p>\n<p style=\"text-align: justify;\">🌙 <strong>Sesión 5. La Luna.</strong><br />Aprendemos algunas características de la Luna y observamos imágenes reales de nuestro satélite.</p>\n<p style=\"text-align: justify;\">👩‍🚀 <strong>Sesión 6. Nos convertimos en astronautas.</strong><br />Realizamos una actividad simbólica en la que el alumnado se convierte en astronauta y participa en juegos relacionados con la exploración del espacio.</p>\n<p style=\"text-align: justify;\">🎨 <strong>Sesión 7. Preparamos nuestro museo del espacio.</strong><br />El alumnado organiza los trabajos realizados durante el proyecto y prepara los materiales que formarán parte de la exposición final.</p>\n<p style=\"text-align: justify;\">🛰 <strong>Sesión 8. Museo del espacio.</strong><br />Se realiza la exposición final del proyecto, donde el alumnado presenta sus creaciones y comparte con el grupo lo que ha aprendido.</p>\n<p style=\"text-align: justify;\">Esta organización permite desarrollar el proyecto de forma progresiva, fomentando la curiosidad, la participación y el aprendizaje significativo del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q16-l7ig9pv3h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🪐 Producto final del proyecto: MUSEO DEL ESPACIO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🪐 Producto final del proyecto: MUSEO DEL ESPACIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🚀 Producto final del proyecto: MUSEO DEL ESPACIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🪐 Producto final del proyecto: MUSEO DEL ESPACIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q16-l7ig9pv3h</odePageId>
+      <odeBlockId>block-1773663567346-o1ezeon1g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q16-l7ig9pv3h</odePageId>
+          <odeBlockId>block-1773663567346-o1ezeon1g</odeBlockId>
+          <odeIdeviceId>idevice-1773663567344-e94zqyfww</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto “Pequeños astronautas: exploramos el espacio” culmina con la realización de un Museo del espacio, una exposición en el aula donde el alumnado mostrará los trabajos realizados durante el desarrollo del proyecto.</p>
+<p style="text-align: justify;">A lo largo de las diferentes sesiones, los niños y niñas elaborarán distintas producciones relacionadas con el universo, como planetas, cohetes, constelaciones o representaciones del espacio. Todos estos materiales formarán parte del museo, que se organizará como un pequeño espacio expositivo dentro del aula.</p>
+<p style="text-align: justify;">El alumnado participará activamente en la preparación del museo, seleccionando los trabajos que desean mostrar, ayudando a organizarlos y explicando a sus compañeros y compañeras lo que han aprendido durante el proyecto.</p>
+<p style="text-align: justify;">Este producto final permite:</p>
+<p style="text-align: justify;">🚀 Sintetizar los aprendizajes realizados durante el proyecto.</p>
+<p style="text-align: justify;">🪐 Desarrollar la expresión oral, explicando lo que han descubierto sobre el espacio.</p>
+<p style="text-align: justify;">👩‍🚀 Fomentar el trabajo cooperativo, ya que el museo se construye entre todos.</p>
+<p style="text-align: justify;">🌟 Valorar el proceso de aprendizaje, mostrando las producciones realizadas.</p>
+<p style="text-align: justify;">Además, durante la exposición se podrán utilizar recursos digitales sencillos, como imágenes o vídeos del espacio proyectados en la pantalla del aula, que ayudarán a contextualizar y enriquecer la experiencia.</p>
+<p style="text-align: justify;">De esta manera, el museo se convierte en un espacio donde el alumnado comparte, explica y celebra lo aprendido, reforzando la motivación y el interés por el conocimiento del universo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773663567344-e94zqyfww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto “Pequeños astronautas: exploramos el espacio” culmina con la realización de un Museo del espacio, una exposición en el aula donde el alumnado mostrará los trabajos realizados durante el desarrollo del proyecto.</p>\n<p style=\"text-align: justify;\">A lo largo de las diferentes sesiones, los niños y niñas elaborarán distintas producciones relacionadas con el universo, como planetas, cohetes, constelaciones o representaciones del espacio. Todos estos materiales formarán parte del museo, que se organizará como un pequeño espacio expositivo dentro del aula.</p>\n<p style=\"text-align: justify;\">El alumnado participará activamente en la preparación del museo, seleccionando los trabajos que desean mostrar, ayudando a organizarlos y explicando a sus compañeros y compañeras lo que han aprendido durante el proyecto.</p>\n<p style=\"text-align: justify;\">Este producto final permite:</p>\n<p style=\"text-align: justify;\">🚀 Sintetizar los aprendizajes realizados durante el proyecto.</p>\n<p style=\"text-align: justify;\">🪐 Desarrollar la expresión oral, explicando lo que han descubierto sobre el espacio.</p>\n<p style=\"text-align: justify;\">👩‍🚀 Fomentar el trabajo cooperativo, ya que el museo se construye entre todos.</p>\n<p style=\"text-align: justify;\">🌟 Valorar el proceso de aprendizaje, mostrando las producciones realizadas.</p>\n<p style=\"text-align: justify;\">Además, durante la exposición se podrán utilizar recursos digitales sencillos, como imágenes o vídeos del espacio proyectados en la pantalla del aula, que ayudarán a contextualizar y enriquecer la experiencia.</p>\n<p style=\"text-align: justify;\">De esta manera, el museo se convierte en un espacio donde el alumnado comparte, explica y celebra lo aprendido, reforzando la motivación y el interés por el conocimiento del universo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q17-tzvw77uog</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>⏳ Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>⏳ Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>⏳ Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>⏳ Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q17-tzvw77uog</odePageId>
+      <odeBlockId>block-1773682048622-30uhrx3ye</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q17-tzvw77uog</odePageId>
+          <odeBlockId>block-1773682048622-30uhrx3ye</odeBlockId>
+          <odeIdeviceId>idevice-1773682048613-5tbuxb0o6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta página se presenta la línea temporal de la Situación de Aprendizaje “Pequeños astronautas: exploramos el espacio”, dirigida al alumnado de 5 años de Educación Infantil. En ella se recoge, de manera visual y organizada, la secuencia de las diferentes sesiones del proyecto, incluyendo las actividades principales, los tiempos aproximados, los agrupamientos y las herramientas digitales utilizadas.</p>
+<p style="text-align: justify;">Esta representación permite ofrecer al alumnado una visión global del proyecto, facilitando la comprensión del desarrollo de las actividades y ayudando a anticipar las tareas que se realizarán en cada sesión.</p>
+<p style="text-align: justify;">Enlace a la línea temporal:<br /><a href="https://www.canva.com/design/DAHD69TQK60/wnCaB93jYh6qfQnK9LJUHA/edit?utm_content=DAHD69TQK60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">https://www.canva.com/design/DAHD69TQK60/wnCaB93jYh6qfQnK9LJUHA/edit?utm_content=DAHD69TQK60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773682048613-5tbuxb0o6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta página se presenta la línea temporal de la Situación de Aprendizaje “Pequeños astronautas: exploramos el espacio”, dirigida al alumnado de 5 años de Educación Infantil. En ella se recoge, de manera visual y organizada, la secuencia de las diferentes sesiones del proyecto, incluyendo las actividades principales, los tiempos aproximados, los agrupamientos y las herramientas digitales utilizadas.</p>\n<p style=\"text-align: justify;\">Esta representación permite ofrecer al alumnado una visión global del proyecto, facilitando la comprensión del desarrollo de las actividades y ayudando a anticipar las tareas que se realizarán en cada sesión.</p>\n<p style=\"text-align: justify;\">Enlace a la línea temporal:<br /><a href=\"https://www.canva.com/design/DAHD69TQK60/wnCaB93jYh6qfQnK9LJUHA/edit?utm_content=DAHD69TQK60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\">https://www.canva.com/design/DAHD69TQK60/wnCaB93jYh6qfQnK9LJUHA/edit?utm_content=DAHD69TQK60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q17-k7x7atm92</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📋 Evaluación del proyecto</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📋 Evaluación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📋 Evaluación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📋 Evaluación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q17-k7x7atm92</odePageId>
+      <odeBlockId>block-1773664002114-ecmgdnuzu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q17-k7x7atm92</odePageId>
+          <odeBlockId>block-1773664002114-ecmgdnuzu</odeBlockId>
+          <odeIdeviceId>idevice-1773664002113-2a72nlioh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La evaluación del proyecto “Pequeños astronautas: exploramos el espacio” se realizará de forma continua, global y formativa, teniendo en cuenta el proceso de aprendizaje del alumnado a lo largo de todas las actividades realizadas.</p>
+<p style="text-align: justify;">En Educación Infantil, la evaluación se basa principalmente en la observación directa del alumnado, lo que permite recoger información sobre su participación, su interés por el proyecto y los aprendizajes que va construyendo durante las diferentes sesiones.</p>
+<p style="text-align: justify;">A lo largo del desarrollo del proyecto se observarán aspectos como:</p>
+<p style="text-align: justify;">⭐ La participación del alumnado en las actividades.<br />⭐ La curiosidad y el interés por el tema del espacio.<br />⭐ La capacidad para expresar ideas y conocimientos.<br />⭐ La colaboración con los compañeros y compañeras.<br />⭐ La creatividad en las producciones realizadas.</p>
+<p style="text-align: justify;">Para recoger esta información se utilizarán diferentes instrumentos de evaluación, entre ellos:</p>
+<p style="text-align: justify;">📋<strong> Lista de cotejo.</strong><br />Permite registrar de forma sencilla la participación del alumnado, su implicación en las actividades y la comprensión de algunos conceptos relacionados con el espacio.</p>
+<p style="text-align: justify;"></p>
+<p><strong>📊 Rúbrica de evaluación.</strong><br />Se utilizará especialmente para valorar el producto final del proyecto, el Museo del espacio, teniendo en cuenta aspectos como la participación, la creatividad, la comprensión del tema y la expresión oral del alumnado.</p>
+<p>Estos instrumentos permiten realizar una evaluación formativa y orientada a la mejora, que ayuda al docente a acompañar el proceso de aprendizaje del alumnado y adaptar las actividades cuando sea necesario.</p>
+<p>A continuación se presentan los instrumentos de evaluación diseñados para este proyecto, que permiten recoger información sobre el proceso de aprendizaje del alumnado y valorar el producto final de la Situación de Aprendizaje.</p>
+<p> <img src="{{context_path}}/content/resources/mceclip0.png" style="font-size: 19.2px; text-align: justify;" /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p style="text-align: justify;">Los instrumentos de evaluación utilizados en este proyecto se relacionan con los criterios de evaluación establecidos en el currículo de Educación Infantil y permiten valorar aspectos como la participación del alumnado, la comprensión de los contenidos trabajados, la expresión oral y el trabajo cooperativo durante el desarrollo de las actividades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773664002113-2a72nlioh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La evaluación del proyecto “Pequeños astronautas: exploramos el espacio” se realizará de forma continua, global y formativa, teniendo en cuenta el proceso de aprendizaje del alumnado a lo largo de todas las actividades realizadas.</p>\n<p style=\"text-align: justify;\">En Educación Infantil, la evaluación se basa principalmente en la observación directa del alumnado, lo que permite recoger información sobre su participación, su interés por el proyecto y los aprendizajes que va construyendo durante las diferentes sesiones.</p>\n<p style=\"text-align: justify;\">A lo largo del desarrollo del proyecto se observarán aspectos como:</p>\n<p style=\"text-align: justify;\">⭐ La participación del alumnado en las actividades.<br />⭐ La curiosidad y el interés por el tema del espacio.<br />⭐ La capacidad para expresar ideas y conocimientos.<br />⭐ La colaboración con los compañeros y compañeras.<br />⭐ La creatividad en las producciones realizadas.</p>\n<p style=\"text-align: justify;\">Para recoger esta información se utilizarán diferentes instrumentos de evaluación, entre ellos:</p>\n<p style=\"text-align: justify;\">📋<strong> Lista de cotejo.</strong><br />Permite registrar de forma sencilla la participación del alumnado, su implicación en las actividades y la comprensión de algunos conceptos relacionados con el espacio.</p>\n<p style=\"text-align: justify;\"></p>\n<p><strong>📊 Rúbrica de evaluación.</strong><br />Se utilizará especialmente para valorar el producto final del proyecto, el Museo del espacio, teniendo en cuenta aspectos como la participación, la creatividad, la comprensión del tema y la expresión oral del alumnado.</p>\n<p>Estos instrumentos permiten realizar una evaluación formativa y orientada a la mejora, que ayuda al docente a acompañar el proceso de aprendizaje del alumnado y adaptar las actividades cuando sea necesario.</p>\n<p>A continuación se presentan los instrumentos de evaluación diseñados para este proyecto, que permiten recoger información sobre el proceso de aprendizaje del alumnado y valorar el producto final de la Situación de Aprendizaje.</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip0.png\" style=\"font-size: 19.2px; text-align: justify;\" /></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p style=\"text-align: justify;\">Los instrumentos de evaluación utilizados en este proyecto se relacionan con los criterios de evaluación establecidos en el currículo de Educación Infantil y permiten valorar aspectos como la participación del alumnado, la comprensión de los contenidos trabajados, la expresión oral y el trabajo cooperativo durante el desarrollo de las actividades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmxa5q17-k7x7atm92</odePageId>
+      <odeBlockId>block-1773664087003-1h0vmv9tf</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q17-k7x7atm92</odePageId>
+          <odeBlockId>block-1773664087003-1h0vmv9tf</odeBlockId>
+          <odeIdeviceId>idevice-1773664087001-n0kzfiv0q</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body">
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773664087001-n0kzfiv0q"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q18-0ehpr320o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🔐 Uso seguro de la tecnología</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔐 Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🔐 Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🔐 Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q18-0ehpr320o</odePageId>
+      <odeBlockId>block-1773678575228-2n9hw82ex</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q18-0ehpr320o</odePageId>
+          <odeBlockId>block-1773678575228-2n9hw82ex</odeBlockId>
+          <odeIdeviceId>idevice-1773678575223-myurc8iqr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta página se presenta una infografía pensada para trabajar con el alumnado de Educación Infantil algunas normas básicas de seguridad digital cuando utilizamos recursos tecnológicos en el aula. Se trata de un recurso visual sencillo que permite introducir desde edades tempranas aspectos relacionados con la protección de datos, el uso responsable de la tecnología y el respeto a la privacidad.</p>
+<p style="text-align: justify;">Enlace al recurso original en Canva:</p>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHDkC1GO-Q/ctsXN6eNZ1iQI56Ov14VdQ/edit?utm_content=DAHDkC1GO-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">https://www.canva.com/design/DAHDkC1GO-Q/ctsXN6eNZ1iQI56Ov14VdQ/edit?utm_content=DAHDkC1GO-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773678575223-myurc8iqr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta página se presenta una infografía pensada para trabajar con el alumnado de Educación Infantil algunas normas básicas de seguridad digital cuando utilizamos recursos tecnológicos en el aula. Se trata de un recurso visual sencillo que permite introducir desde edades tempranas aspectos relacionados con la protección de datos, el uso responsable de la tecnología y el respeto a la privacidad.</p>\n<p style=\"text-align: justify;\">Enlace al recurso original en Canva:</p>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHDkC1GO-Q/ctsXN6eNZ1iQI56Ov14VdQ/edit?utm_content=DAHDkC1GO-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\">https://www.canva.com/design/DAHDkC1GO-Q/ctsXN6eNZ1iQI56Ov14VdQ/edit?utm_content=DAHDkC1GO-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</a></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q19-gqh3nopxr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>🧰 Recursos y curación de contenidos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧰 Recursos y curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🧰 Recursos y curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>🧰 Recursos y curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q19-gqh3nopxr</odePageId>
+      <odeBlockId>block-1773678707832-yb6zg13mh</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS PARA EL PROYECTO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q19-gqh3nopxr</odePageId>
+          <odeBlockId>block-1773678707832-yb6zg13mh</odeBlockId>
+          <odeIdeviceId>idevice-1773678707828-w3x1ifoj1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para apoyar el desarrollo del proyecto “Pequeños astronautas: exploramos el espacio” se ha elaborado una curación de contenidos en Padlet, donde se recopilan vídeos, imágenes, recursos interactivos y propuestas de actividades relacionadas con el universo. Esta selección facilita la organización de materiales y su uso posterior en el aula.<br /></p>
+<p>Enlace al Padlet:</p>
+<p>https://padlet.com/celiasalares/peque-os-astronautas-recursos-para-aprender-sobre-el-espacio-r1b1vjqxwto702bd</p>
+<p>https://padlet.com/celiasalares/peque-os-astronautas-recursos-para-aprender-sobre-el-espacio-r1b1vjqxwto702bd/slideshow</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773678707828-w3x1ifoj1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para apoyar el desarrollo del proyecto “Pequeños astronautas: exploramos el espacio” se ha elaborado una curación de contenidos en Padlet, donde se recopilan vídeos, imágenes, recursos interactivos y propuestas de actividades relacionadas con el universo. Esta selección facilita la organización de materiales y su uso posterior en el aula.<br /></p>\n<p>Enlace al Padlet:</p>\n<p>https://padlet.com/celiasalares/peque-os-astronautas-recursos-para-aprender-sobre-el-espacio-r1b1vjqxwto702bd</p>\n<p>https://padlet.com/celiasalares/peque-os-astronautas-recursos-para-aprender-sobre-el-espacio-r1b1vjqxwto702bd/slideshow</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmxa5q19-gqh3nopxr</odePageId>
+      <odeBlockId>block-1773678811015-r5rfsvmbl</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS PARA LA GESTIÓN Y ORGANIZACIÓN DEL AULA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q19-gqh3nopxr</odePageId>
+          <odeBlockId>block-1773678811015-r5rfsvmbl</odeBlockId>
+          <odeIdeviceId>idevice-1773678811012-whx45akf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>También se ha elaborado una recopilación de herramientas digitales mediante Symbaloo, con recursos que forman parte de la práctica docente diaria y que facilitan la gestión del aula, la creación de materiales y la organización de la información.<br /></p>
+<p>Enlace al Symbaloo:</p>
+<p>https://www.symbaloo.com/shared/AAAABuL_EdUAA42ADs8_kw==</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773678811012-whx45akf8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>También se ha elaborado una recopilación de herramientas digitales mediante Symbaloo, con recursos que forman parte de la práctica docente diaria y que facilitan la gestión del aula, la creación de materiales y la organización de la información.<br /></p>\n<p>Enlace al Symbaloo:</p>\n<p>https://www.symbaloo.com/shared/AAAABuL_EdUAA42ADs8_kw==</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q19-hqpv0sary</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>📚 Guía didáctica para el profesorado</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Guía didáctica para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Guía didáctica para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>📚 Guía didáctica para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q19-hqpv0sary</odePageId>
+      <odeBlockId>block-1773664184727-gk9h6vjbx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q19-hqpv0sary</odePageId>
+          <odeBlockId>block-1773664184727-gk9h6vjbx</odeBlockId>
+          <odeIdeviceId>idevice-1773664184725-rsei4bmh0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto “Pequeños astronautas: exploramos el espacio” ha sido diseñado como una Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil, cuyo objetivo es acercar el conocimiento del universo a través de experiencias de aprendizaje motivadoras y adaptadas a su edad.</p>
+<p style="text-align: justify;">Este recurso digital elaborado con eXeLearning recoge los principales elementos necesarios para la implementación del proyecto en el aula, organizando de forma clara las actividades, la secuencia de sesiones, el producto final y los instrumentos de evaluación.</p>
+<p style="text-align: justify;">El proyecto se desarrolla mediante metodologías activas, en las que el alumnado participa de forma protagonista en el proceso de aprendizaje a través de la observación, la experimentación, la conversación y la creación de producciones propias relacionadas con el espacio.</p>
+<p style="text-align: justify;">La propuesta didáctica incluye:</p>
+<ul style="text-align: justify;">
+<li>Una descripción del proyecto.</li>
+<li>La secuencia de actividades y sesiones.</li>
+<li>El producto final del proyecto.</li>
+<li>La línea temporal de desarrollo.</li>
+<li>Los instrumentos de evaluación.</li>
+<li>Orientaciones para el profesorado.</li>
+</ul>
+<p style="text-align: justify;">De esta manera, el recurso facilita la planificación, organización y desarrollo del proyecto en el aula, permitiendo adaptar las actividades a las características y necesidades del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773664184725-rsei4bmh0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto “Pequeños astronautas: exploramos el espacio” ha sido diseñado como una Situación de Aprendizaje dirigida al alumnado de 5 años de Educación Infantil, cuyo objetivo es acercar el conocimiento del universo a través de experiencias de aprendizaje motivadoras y adaptadas a su edad.</p>\n<p style=\"text-align: justify;\">Este recurso digital elaborado con eXeLearning recoge los principales elementos necesarios para la implementación del proyecto en el aula, organizando de forma clara las actividades, la secuencia de sesiones, el producto final y los instrumentos de evaluación.</p>\n<p style=\"text-align: justify;\">El proyecto se desarrolla mediante metodologías activas, en las que el alumnado participa de forma protagonista en el proceso de aprendizaje a través de la observación, la experimentación, la conversación y la creación de producciones propias relacionadas con el espacio.</p>\n<p style=\"text-align: justify;\">La propuesta didáctica incluye:</p>\n<ul style=\"text-align: justify;\">\n<li>Una descripción del proyecto.</li>\n<li>La secuencia de actividades y sesiones.</li>\n<li>El producto final del proyecto.</li>\n<li>La línea temporal de desarrollo.</li>\n<li>Los instrumentos de evaluación.</li>\n<li>Orientaciones para el profesorado.</li>\n</ul>\n<p style=\"text-align: justify;\">De esta manera, el recurso facilita la planificación, organización y desarrollo del proyecto en el aula, permitiendo adaptar las actividades a las características y necesidades del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmxa5q19-hqpv0sary</odePageId>
+      <odeBlockId>block-1773679101243-f1dw45omh</odeBlockId>
+      <blockName>RELACIÓN ENTRE ACTIVIDADES (TAREAS) Y CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q19-hqpv0sary</odePageId>
+          <odeBlockId>block-1773679101243-f1dw45omh</odeBlockId>
+          <odeIdeviceId>idevice-1773679101241-djml96bf4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta propuesta se han asociado diferentes actividades de aprendizaje de la Situación de Aprendizaje “Pequeños astronautas: exploramos el espacio” con los criterios de evaluación del currículo de Educación Infantil, indicando además el agrupamiento, el tiempo aproximado y las herramientas digitales sugeridas. Esta relación permite una planificación más coherente del proceso de enseñanza y aprendizaje.</p>
+<p></p>
+<p>Enlace al documento completo:</p>
+<p>https://docs.google.com/document/d/16ZyCAYIvJ74l1c-BGFtq6zAcOgjk2F7S-mbQ06scKv8/edit?usp=sharing</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773679101241-djml96bf4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta propuesta se han asociado diferentes actividades de aprendizaje de la Situación de Aprendizaje “Pequeños astronautas: exploramos el espacio” con los criterios de evaluación del currículo de Educación Infantil, indicando además el agrupamiento, el tiempo aproximado y las herramientas digitales sugeridas. Esta relación permite una planificación más coherente del proceso de enseñanza y aprendizaje.</p>\n<p></p>\n<p>Enlace al documento completo:</p>\n<p>https://docs.google.com/document/d/16ZyCAYIvJ74l1c-BGFtq6zAcOgjk2F7S-mbQ06scKv8/edit?usp=sharing</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmxa5q1a-s8ond8uyj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>👩‍🚀Créditos y Licencia</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👩‍🚀Créditos y Licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👩‍🚀Créditos y Licencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>👩‍🚀Créditos y Licencia</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmxa5q1a-s8ond8uyj</odePageId>
+      <odeBlockId>block-1773664826660-ghy5jcdfo</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmxa5q1a-s8ond8uyj</odePageId>
+          <odeBlockId>block-1773664826660-ghy5jcdfo</odeBlockId>
+          <odeIdeviceId>idevice-1773664826656-eofa4k953</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo digital ha sido elaborado como producto final del curso de Competencia Digital Docente (Nivel B2).</p>
+<p><strong>Autora:</strong><br />Celia Azuaga Jiménez.</p>
+<p><strong>Etapa educativa:</strong><br />Educación Infantil – 5 años.</p>
+<p><strong>Título del proyecto:</strong><br />Pequeños astronautas: exploramos el espacio.</p>
+<p><strong>Herramienta utilizada:</strong><br />eXeLearning</p>
+<p><strong>Licencia del recurso:</strong><br />Creative Commons CC BY-NC-SA</p>
+<p>Esta licencia permite compartir y adaptar el recurso siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta con la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773664826656-eofa4k953","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo digital ha sido elaborado como producto final del curso de Competencia Digital Docente (Nivel B2).</p>\n<p><strong>Autora:</strong><br />Celia Azuaga Jiménez.</p>\n<p><strong>Etapa educativa:</strong><br />Educación Infantil – 5 años.</p>\n<p><strong>Título del proyecto:</strong><br />Pequeños astronautas: exploramos el espacio.</p>\n<p><strong>Herramienta utilizada:</strong><br />eXeLearning</p>\n<p><strong>Licencia del recurso:</strong><br />Creative Commons CC BY-NC-SA</p>\n<p>Esta licencia permite compartir y adaptar el recurso siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta con la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
